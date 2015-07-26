@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Despicable Me Hunt</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="tvFindText">Find these guys: </string>
+
+    <string name="tvFindAll">Find all</string>
+    <string name="b1">Reset Game</string>
+    <string name="b2">Exit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="b3">Back</string>
+    <string name="t2">Congratulations!!!!</string>
+    <string name="t3">It took you 10sec to finish the game.</string>
+    
+</resources>
